@@ -8,7 +8,7 @@
 ## Способ связи:
 
 - [Telegram](https://t.me/zeroflip)
-- [Email](www.bat643022@gmail.com)
+
 ## Мой технический набор навыков:
 - **Языки программирования**: Python, SQL
 - **Библиотеки**: Scikit-learn, Keras, Pandas, Spark, Matplotlib, Seaborn, Plotly
