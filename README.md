@@ -11,7 +11,7 @@
 
 ## Мой технический набор навыков:
 - **Языки программирования**: Python, SQL
-- **Библиотеки**: Scikit-learn, Keras, Pandas, Spark, Matplotlib, Seaborn, Plotly
+- **Библиотеки**:  Scikit-learn, Pytorch, Pandas, Spark, Matplotlib, Seaborn, Plotli ,Numpy, Streamlit, Sqlalchemy, Scipy
 - **Базы данных**: PostgreSQL, MySQL
 - **Системы контроля версий**: GitHub
 
