@@ -23,4 +23,10 @@
 
 -[NLP](https://github.com/Zeroflip64/Subtitles)
 
+## Streamlit
+
+-[Cars](https://zeroflip64-study-projects-cars-p-eoyi8p.streamlit.app/)
+-[Cluster_analysis](https://zeroflip64-pet-projects-streamlit-1-project-9fo7ut.streamlit.app/)
+-[Subs](https://zeroflip64-subtitles-streamlit-sub-n9wsxl.streamlit.app/)
+
 В дополнение к этим техническим навыкам, я обладаю гибким и стратегическим подходом к решению задач, сильными коммуникативными навыками и четким пониманием бизнес-потребностей, что позволяет мне успешно реализовывать проекты в данном направлении.
