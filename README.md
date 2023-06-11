@@ -12,7 +12,7 @@
 ## Мой технический набор навыков / My Technical Skill set:
 - **Языки программирования / Programming languages**: Python, SQL
 - **Библиотеки / Libraries**:  Scikit-learn, Pytorch, Pandas, Spark, Matplotlib, Seaborn, Plotli ,Numpy, Streamlit, Sqlalchemy, Scipy
-- **Базы данных / Databases **: PostgreSQL, MySQL
+- **Базы данных / Databases**: PostgreSQL, MySQL
 - **Системы контроля версий / Version control systems**: GitHub
 
 ## Мои проекты / My Projects:
