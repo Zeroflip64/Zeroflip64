@@ -2,20 +2,20 @@
 
 [Мое резюме](https://hh.ru/applicant/resumes/view?resume=769b233cff0c07c0530039ed1f6e7638486d63)
 
-[Мой профиль LinkedIn](https://www.linkedin.com/in/ramil-zangerov-a46a24262/)
+[Мой профиль LinkedIn / My LinkedIn Profile ](https://www.linkedin.com/in/ramil-zangerov-a46a24262/)
 
 Я начинающий специалист Data science.Но с богатым опытом в управлении бизнесом и проектами.И я с энтузиазмом приступаю к новой главе в своей карьере и надеюсь что мои новые и старые навыки помогут бизнесу достичь поставленных целей.
 ## Способ связи:
 
 - [Telegram](https://t.me/zeroflip)
 
-## Мой технический набор навыков:
-- **Языки программирования**: Python, SQL
-- **Библиотеки**:  Scikit-learn, Pytorch, Pandas, Spark, Matplotlib, Seaborn, Plotli ,Numpy, Streamlit, Sqlalchemy, Scipy
-- **Базы данных**: PostgreSQL, MySQL
-- **Системы контроля версий**: GitHub
+## Мой технический набор навыков / My Technical Skill set:
+- **Языки программирования / Programming languages**: Python, SQL
+- **Библиотеки / Libraries**:  Scikit-learn, Pytorch, Pandas, Spark, Matplotlib, Seaborn, Plotli ,Numpy, Streamlit, Sqlalchemy, Scipy
+- **Базы данных / Databases **: PostgreSQL, MySQL
+- **Системы контроля версий / Version control systems**: GitHub
 
-## Мои проекты:
+## Мои проекты / My Projects:
 
 -[Учебные](https://github.com/Zeroflip64/Study_projects)
 
